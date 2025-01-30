@@ -36,3 +36,4 @@ Wanderlust is a web-based platform designed for managing travel destinations. Us
 2. Install dependencies:
    ```bash
    npm install
+npm start
