@@ -4,7 +4,7 @@
 The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leverages the power of **IoT** to create a system that monitors patients’ vital signs in real-time, detecting early symptoms and improving post-treatment care. With a wearable unit and cloud integration, this system minimizes hospital visits and offers continuous health tracking, empowering both patients and healthcare providers.
 
 ![System Overview](Images/SystemOverview.png)  
-*Image 1: IoT-based Cancer Care System*
+### *Figure 1: IoT-based Cancer Care System*
 
 ## Key Features 💡
 - **🩺 Continuous Health Monitoring**: The system constantly monitors vital parameters like heart rate, temperature, and blood oxygen levels.
@@ -22,7 +22,7 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 - **Blynk App**: Mobile app for real-time monitoring and alerts.
 
 ![Technology Stack](Images/Technologies.png)  
-*Image 2: Three-layers architecture for remote and continuous cancer patients’ observation.*
+### *Figure 2: Three-layers architecture for remote and continuous cancer patients’ observation.*
 
 ## Components 🛠️
 - Arduino Uno
@@ -44,7 +44,7 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 6. **Power the System**: Power the system with a suitable battery or power source, and start monitoring!
 7. 
 ![Framework for observation](Images/framework-for-cancer-observation.png)  
-*Image 3: Information flow framework for cancer observation system.*
+### *Figure 3: Information flow framework for cancer observation system.*
 
 ## How It Works 🧑‍💻
 1. The **heart rate**, **temperature**, and **oxygen sensors** continuously monitor the patient's health parameters.
