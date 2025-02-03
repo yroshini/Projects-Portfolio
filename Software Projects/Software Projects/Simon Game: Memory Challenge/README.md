@@ -7,8 +7,7 @@
 ## 🚀 Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Other**: jQuery (optional for some enhanced effects)
-
+  
 ---
 
 ## ⚡ Features
@@ -20,7 +19,7 @@
 - With each correct sequence, the game adds another step to the sequence, increasing the challenge.
 
 ### 💥 Error Handling
-- If you make an error, the game will notify you with a sound, and you’ll have to start over.
+- If you make an error, the game will notify you and you’ll have to start over.
 
 ### 📊 Score Tracking
 - Track your score based on how long you can continue without making an error.
