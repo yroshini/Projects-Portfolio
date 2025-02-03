@@ -3,18 +3,12 @@
 ## Description 🌟 
 **EcoClean** is an innovative, eco-friendly solution for cleaning up our oceans and waterways. Powered by **solar energy**, this floating garbage collector uses **solar panels** and a **screw conveyor system** to collect debris from water bodies. Designed to minimize environmental impact while improving the health of aquatic ecosystems, **EcoClean** is an environmentally sustainable method for combating water pollution.
 
-![EcoClean System Overview](images/ecoclean_overview.jpg)  
-*Image 1: Solar-Powered Marine Garbage Collector*
-
 ## Key Features 💡
 - **🌞 Solar-Powered**: The system operates entirely on solar energy, making it **environmentally friendly** and cost-efficient.
 - **⚙️ Screw Conveyor**: The innovative **screw conveyor** system collects and transports the debris to a collection area.
 - **💧 Automatic Operation**: The system automatically activates and collects trash without manual intervention, ensuring continuous cleaning.
 - **🌍 Eco-Friendly**: Designed to reduce oceanic and waterway pollution, contributing to a cleaner and healthier planet.
 - **📊 Data Monitoring**: The system can be monitored and controlled remotely, tracking the amount of waste collected and system performance.
-
-![Technology Stack](images/technology_stack.jpg)  
-*Image 2: Technology Stack Used in EcoClean*
 
 ## Technologies Used 🔧
 - **Solar Panels**: Provide power to the entire system, making it **sustainable** and **eco-friendly**.
@@ -43,18 +37,12 @@
 5. **Monitor and Track**: Use the GPS module and optional mobile app for real-time tracking of the system's location and performance.
 6. **Collection and Disposal**: Collected debris is stored in a compartment until it’s manually removed.
 
-![System Operation](images/system_operation.jpg)  
-*Image 3: Operation of the EcoClean Garbage Collection System*
-
 ## How It Works 🧑‍💻
 1. **Solar Panels** power the entire system, charging the onboard battery to keep the motor running.
 2. The **screw conveyor** is activated by the **DC motor**, which collects debris floating on the water's surface.
 3. **Waterproof sensors** detect the level of debris and optimize the system’s operation to ensure it works efficiently.
 4. The **Arduino** controls the entire system, managing the operation of the motor and sensors based on feedback.
 5. **GPS module** provides real-time tracking and positioning of the system on the water, enabling remote monitoring.
-
-![Waste Collection Process](images/waste_collection.jpg)  
-*Image 4: Waste Collection Process Using EcoClean*
 
 ## Future Enhancements 🌱
 - **💡 AI Integration**: Implement AI-based algorithms for better identification and separation of different types of waste (e.g., plastics, metals).
@@ -64,9 +52,3 @@
 
 ## Conclusion 🌍
 The **EcoClean: Solar-Powered Marine Garbage Collector** is an innovative, **environmentally sustainable** solution for combating water pollution. Powered entirely by the sun, this system provides a **cost-effective**, **automated**, and **eco-friendly** way to clean up water bodies, making a positive impact on the environment. Join the fight against ocean pollution and help keep our waterways clean!
-
-![EcoClean in Action](images/ecoclean_in_action.jpg)  
-*Image 5: EcoClean in Action - Collecting Waste from Water Bodies*
-
-
-
