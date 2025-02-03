@@ -41,7 +41,7 @@
 5. **Customize Settings**: Adjust the chair’s settings for height, lumbar support, and massage features to match your comfort needs.
 6. **Monitor Vital Signs**: Use the app to monitor heart rate, body temperature, and posture in real-time.
 
-![Chair Adjustment Process](images/.jpg)  
+![Chair Adjustment Process](Images/Adjustments.png)  
 *Image 3: Chair Adjustment Process*
 
 ## How It Works 🧑‍💻
@@ -51,7 +51,7 @@
 4. **Massage Function**: **Massage motors** are activated to provide gentle vibration and massage, relieving stress and improving circulation.
 5. **Mobile App Integration**: The mobile app syncs with the chair to display health data, provide posture feedback, and allow you to adjust settings from your phone.
 
-![Smart Chair Features](Images/Smartchair.png)  
+![Smart Chair Features](Images/Smartchair1.png)  
 *Image 4: No.of People suffering because of bad posture*
 
 ## Future Enhancements 🌱
