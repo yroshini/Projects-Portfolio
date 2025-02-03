@@ -42,8 +42,9 @@
 5. **Customize Settings**: Adjust the chair’s settings for height, lumbar support, and massage features to match your comfort needs.
 6. **Monitor Vital Signs**: Use the app to monitor heart rate, body temperature, and posture in real-time.
 
-![Chair Adjustment Process](Images/Adjustments.png)  
-*Image 3: Chair Adjustment Process*
+<p align="center">
+  <img src="Images/Adjustments.png" alt="Chair Adjustment Process"/>
+</p>
 
 ## How It Works 🧑‍💻
 1. **Posture Monitoring**: The built-in **pressure sensors** detect the pressure distribution on the seat, helping to determine if the user’s posture needs adjustment.
