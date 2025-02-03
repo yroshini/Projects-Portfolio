@@ -46,3 +46,23 @@ Introducing the **IoT-based Water Management System** — a cutting-edge solutio
 
 ## Conclusion 🌱
 The **IoT-based Water Management System** is the future of efficient water usage! With **real-time monitoring**, **automated motor protection**, and **leakage detection**, it ensures that you never waste a drop. Whether you’re managing a home, business, or industrial setup, this system offers **smart**, **sustainable**, and **cost-effective** water management.
+
+## 🏗️ System Architecture
+![System Architecture](Images/Architecture.png)  
+*Image 1: Overall System Architecture*  
+This diagram shows the high-level architecture of the system, including sensors, the microcontroller (Arduino), and how they interact with cloud storage and mobile app monitoring.
+
+## 📊 Storing Daily Outcomes
+![Storing Daily Outcomes](Images/Storing-daily-outcomes.png)  
+*Image 2: Storing Daily Outcomes*  
+This image shows how the system collects and stores data such as water usage, leakage detection, and motor status over time for future analysis.
+
+## 🖥️ Output Visualization
+![Output Visualization](Images/Outputs.png)  
+*Image 3: Output Visualization*  
+Here, the system outputs various parameters like water flow, level, and status of the motor to a user interface, providing clear insights into the system’s performance.
+
+## 📱 Mobile App Monitoring
+![Mobile App Monitoring](Images/Operating-through-mobileapp.png)  
+*Image 4: Mobile App Monitoring*  
+This image demonstrates how users can monitor the system remotely through the mobile app, viewing real-time data and receiving alerts on water usage, leaks, and motor status.
