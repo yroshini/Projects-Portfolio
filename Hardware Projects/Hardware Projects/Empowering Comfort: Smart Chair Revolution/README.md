@@ -6,7 +6,7 @@
 <p align="center">
   <img src="Images/Complications.png" alt="Smart Chair Overview"/>
 </p>
-
+*Image 1: Complications of bad posture*
 ## Key Features 💡
 - **🧘‍♂️ Posture Monitoring**: Built-in sensors to monitor and track your posture, ensuring you maintain an ergonomic sitting position.
 - **🔄 Adjustable Comfort**: Customize the height, lumbar support, and seating position for your ideal comfort level.
@@ -45,6 +45,7 @@
 <p align="center">
   <img src="Images/Adjustments.png" alt="Chair Adjustment Process"/>
 </p>
+*Image 2: Chair Adjustment Process*
 
 ## How It Works 🧑‍💻
 1. **Posture Monitoring**: The built-in **pressure sensors** detect the pressure distribution on the seat, helping to determine if the user’s posture needs adjustment.
