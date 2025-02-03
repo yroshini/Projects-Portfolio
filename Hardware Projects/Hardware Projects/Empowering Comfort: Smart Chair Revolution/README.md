@@ -3,11 +3,11 @@
 ## Description 🌟
 **Empowering Comfort** is a cutting-edge **Smart Chair** designed for **health and well-being**. With integrated **sensors**, **adjustable settings**, and **advanced comfort features**, this chair takes user comfort to the next level. It tracks posture, vital signs, and provides personalized comfort by adjusting settings such as height, lumbar support, and even providing massage functions. Perfect for **home offices**, **workspaces**, or **reclining areas**, the Smart Chair ensures you stay comfortable and healthy throughout the day.
 
+### Image 1: Complications of bad posture
+
 <p align="center">
   <img src="Images/Complications.png" alt="Smart Chair Overview"/>
 </p>
-
-*Image 1: Complications of bad posture*
 
 ## Key Features 💡
 - **🧘‍♂️ Posture Monitoring**: Built-in sensors to monitor and track your posture, ensuring you maintain an ergonomic sitting position.
@@ -44,11 +44,11 @@
 5. **Customize Settings**: Adjust the chair’s settings for height, lumbar support, and massage features to match your comfort needs.
 6. **Monitor Vital Signs**: Use the app to monitor heart rate, body temperature, and posture in real-time.
 
+### Image 2: Chair Adjustment Process
+
 <p align="center">
   <img src="Images/Adjustments.png" alt="Chair Adjustment Process"/>
 </p>
-
-*Image 2: Chair Adjustment Process*
 
 ## How It Works 🧑‍💻
 1. **Posture Monitoring**: The built-in **pressure sensors** detect the pressure distribution on the seat, helping to determine if the user’s posture needs adjustment.
@@ -58,7 +58,7 @@
 5. **Mobile App Integration**: The mobile app syncs with the chair to display health data, provide posture feedback, and allow you to adjust settings from your phone.
 
 ![Smart Chair Features](Images/Smartchair1.png)  
-*Image 4: No.of People suffering because of bad posture*
+*Image 3: No.of People suffering because of bad posture*
 
 ## Future Enhancements 🌱
 - **💡 AI Integration**: Add AI to analyze your sitting habits and suggest ergonomic adjustments over time.
