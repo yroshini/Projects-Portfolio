@@ -51,7 +51,7 @@
 4. **Massage Function**: **Massage motors** are activated to provide gentle vibration and massage, relieving stress and improving circulation.
 5. **Mobile App Integration**: The mobile app syncs with the chair to display health data, provide posture feedback, and allow you to adjust settings from your phone.
 
-![Smart Chair Features](images/Smartchair.png)  
+![Smart Chair Features](Images/Smartchair.png)  
 *Image 4: No.of People suffering because of bad posture*
 
 ## Future Enhancements 🌱
