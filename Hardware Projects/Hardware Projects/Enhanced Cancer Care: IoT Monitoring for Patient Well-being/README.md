@@ -3,7 +3,7 @@
 ## Description 🌟
 The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leverages the power of **IoT** to create a system that monitors patients’ vital signs in real-time, detecting early symptoms and improving post-treatment care. With a wearable unit and cloud integration, this system minimizes hospital visits and offers continuous health tracking, empowering both patients and healthcare providers.
 
-![System Overview](images/cancer_care_system.jpg)  
+![System Overview](Images/systemOverview.png)  
 *Image 1: IoT-based Cancer Care System*
 
 ## Key Features 💡
@@ -21,7 +21,7 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 - **Wi-Fi Module**: Transmits the data to the cloud for storage and analysis.
 - **Blynk App**: Mobile app for real-time monitoring and alerts.
 
-![Technology Stack](images/technology_stack.jpg)  
+![Technology Stack](Images/Technologies.png)  
 *Image 2: Technology Stack & Sensors Used*
 
 ## Components 🛠️
@@ -50,8 +50,8 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 4. Data is displayed on the **Blynk app** for mobile access, allowing both patient and doctor to monitor the situation continuously.
 5. In case of any abnormal readings, timely intervention can be initiated, ensuring patient safety.
 
-![Patient Monitoring](images/patient_monitoring.jpg)  
-*Image 3: Continuous Patient Monitoring and Alerts*
+![Framework for observation](images/framework-for-cancer-observation)  
+*Image 3: Information flow framework for cancer observation system.*
 
 ## Future Enhancements 🌱
 - **AI Integration**: Implement AI algorithms to predict potential health issues based on historical data.
@@ -62,6 +62,6 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 ## Conclusion 🌍
 The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** system is designed to improve patient care and reduce the burden of frequent hospital visits. By using **IoT** technology, this system provides real-time monitoring of a cancer patient’s vital signs, helping healthcare providers intervene promptly if necessary. It’s a step towards **better patient well-being**, **more personalized care**, and **early detection** of health complications.
 
-![Real-time Alerts](images/real_time_alerts.jpg)  
-*Image 4: Real-time Alerts Sent to Mobile App and Healthcare Provider*
+![Patient Monitoring](Images/Fig4&5.png)  
+*Image 4: Continuous Patient Monitoring and Alerts*
 
