@@ -42,6 +42,9 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 4. **Blynk Setup**: (Optional) Connect the system to the Blynk app for remote monitoring and real-time alerts.
 5. **Wearable Setup**: Attach the sensors to a wearable unit that can be worn comfortably by the patient.
 6. **Power the System**: Power the system with a suitable battery or power source, and start monitoring!
+7. 
+![Framework for observation](Images/framework-for-cancer-observation.png)  
+*Image 3: Information flow framework for cancer observation system.*
 
 ## How It Works 🧑‍💻
 1. The **heart rate**, **temperature**, and **oxygen sensors** continuously monitor the patient's health parameters.
@@ -50,8 +53,8 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 4. Data is displayed on the **Blynk app** for mobile access, allowing both patient and doctor to monitor the situation continuously.
 5. In case of any abnormal readings, timely intervention can be initiated, ensuring patient safety.
 
-![Framework for observation](Images/framework-for-cancer-observation)  
-*Image 3: Information flow framework for cancer observation system.*
+### Continuous Patient Monitoring and Alerts
+![Patient Monitoring](Images/Fig4&5.png)  
 
 ## Future Enhancements 🌱
 - **AI Integration**: Implement AI algorithms to predict potential health issues based on historical data.
@@ -62,6 +65,5 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 ## Conclusion 🌍
 The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** system is designed to improve patient care and reduce the burden of frequent hospital visits. By using **IoT** technology, this system provides real-time monitoring of a cancer patient’s vital signs, helping healthcare providers intervene promptly if necessary. It’s a step towards **better patient well-being**, **more personalized care**, and **early detection** of health complications.
 
-![Patient Monitoring](Images/Fig4&5.png)  
-*Image 4: Continuous Patient Monitoring and Alerts*
+
 
