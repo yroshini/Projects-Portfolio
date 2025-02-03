@@ -21,7 +21,7 @@ Wanderlust is a web-based platform designed for managing travel destinations. Us
 
 ### Homepage
 ![Homepage](./screenshots/homepage.png)
-![HomePage](./WanderlustTravelDestinationManager/Screenshots/homepage.png)
+![HomePage](./WanderlustTravelDestinationManager/WanderlustTravelDestinationManager/Screenshots/homepage.png)
 
 ### Destination List
 ![Destination List](./screenshots/destination-list.png)
