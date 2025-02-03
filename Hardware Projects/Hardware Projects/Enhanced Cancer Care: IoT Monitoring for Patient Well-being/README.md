@@ -50,7 +50,7 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 4. Data is displayed on the **Blynk app** for mobile access, allowing both patient and doctor to monitor the situation continuously.
 5. In case of any abnormal readings, timely intervention can be initiated, ensuring patient safety.
 
-![Framework for observation](images/framework-for-cancer-observation)  
+![Framework for observation](Images/framework-for-cancer-observation)  
 *Image 3: Information flow framework for cancer observation system.*
 
 ## Future Enhancements 🌱
