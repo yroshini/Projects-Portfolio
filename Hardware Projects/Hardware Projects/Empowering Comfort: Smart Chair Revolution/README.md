@@ -3,7 +3,7 @@
 ## Description 🌟
 **Empowering Comfort** is a cutting-edge **Smart Chair** designed for **health and well-being**. With integrated **sensors**, **adjustable settings**, and **advanced comfort features**, this chair takes user comfort to the next level. It tracks posture, vital signs, and provides personalized comfort by adjusting settings such as height, lumbar support, and even providing massage functions. Perfect for **home offices**, **workspaces**, or **reclining areas**, the Smart Chair ensures you stay comfortable and healthy throughout the day.
 
-![Smart Chair Overview](images/smart_chair_overview.jpg)  
+![Smart Chair Overview](Images/Complications.png)  
 *Image 1: Smart Chair Overview*
 
 ## Key Features 💡
@@ -13,9 +13,6 @@
 - **💆‍♂️ Massage Functions**: Adjustable massage settings to provide relief from stress and tension during long hours of sitting.
 - **📱 Mobile App Integration**: Connect to a mobile app to track health data, adjust settings, and monitor posture in real-time.
 - **⚡ Energy-Efficient**: Powered with low energy consumption, ensuring sustainability and eco-friendliness.
-
-![Technology Stack](images/technology_stack.jpg)  
-*Image 2: Technology Stack Used in the Smart Chair*
 
 ## Technologies Used 🔧
 - **Pressure Sensors**: Used to detect body pressure and provide data on posture.
@@ -44,7 +41,7 @@
 5. **Customize Settings**: Adjust the chair’s settings for height, lumbar support, and massage features to match your comfort needs.
 6. **Monitor Vital Signs**: Use the app to monitor heart rate, body temperature, and posture in real-time.
 
-![Chair Adjustment Process](images/chair_adjustment.jpg)  
+![Chair Adjustment Process](images/.jpg)  
 *Image 3: Chair Adjustment Process*
 
 ## How It Works 🧑‍💻
@@ -54,8 +51,8 @@
 4. **Massage Function**: **Massage motors** are activated to provide gentle vibration and massage, relieving stress and improving circulation.
 5. **Mobile App Integration**: The mobile app syncs with the chair to display health data, provide posture feedback, and allow you to adjust settings from your phone.
 
-![Smart Chair Features](images/smart_chair_features.jpg)  
-*Image 4: Smart Chair Features in Action*
+![Smart Chair Features](images/Smartchair.png)  
+*Image 4: No.of People suffering because of bad posture*
 
 ## Future Enhancements 🌱
 - **💡 AI Integration**: Add AI to analyze your sitting habits and suggest ergonomic adjustments over time.
