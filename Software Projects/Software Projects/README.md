@@ -7,7 +7,7 @@ Wanderlust is a web-based platform designed for managing travel destinations. Us
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Other:** Axios, Bootstrap
+- **Other:** Bootstrap
 
 ## Features
 - Add New Destinations: Users can add their favorite travel destinations with all relevant information (location, description, etc.).
