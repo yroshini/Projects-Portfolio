@@ -3,7 +3,7 @@
 ## Description 🌟
 The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leverages the power of **IoT** to create a system that monitors patients’ vital signs in real-time, detecting early symptoms and improving post-treatment care. With a wearable unit and cloud integration, this system minimizes hospital visits and offers continuous health tracking, empowering both patients and healthcare providers.
 
-![System Overview](Images/systemOverview.png)  
+![System Overview](Images/SystemOverview.png)  
 *Image 1: IoT-based Cancer Care System*
 
 ## Key Features 💡
