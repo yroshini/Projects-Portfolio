@@ -1,2 +1,2 @@
 # Projects-Portfolio
-A collection of my software and hardware projects.
+A collection of my software projects.
