@@ -22,7 +22,7 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 - **Blynk App**: Mobile app for real-time monitoring and alerts.
 
 ![Technology Stack](Images/Technologies.png)  
-*Image 2: Technology Stack & Sensors Used*
+*Image 2: Three-layers architecture for remote and continuous cancer patients’ observation.*
 
 ## Components 🛠️
 - Arduino Uno
