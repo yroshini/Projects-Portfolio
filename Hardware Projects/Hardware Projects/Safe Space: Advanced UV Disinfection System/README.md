@@ -3,9 +3,6 @@
 ## Description 🌟
 Introducing **Safe Space: Advanced UV Disinfection System** – a cutting-edge solution for sanitation and sterilization, designed to eliminate harmful bacteria, viruses, and pathogens using **UV-C light**. This system is perfect for both **public and private spaces** like hospitals, homes, offices, and more. Equipped with **automated sensors**, **IR technology**, and **Arduino**, this system offers a seamless, safe, and efficient method for disinfection without the use of chemicals.
 
-![System Overview](images/uv_disinfection_system.jpg)  
-*Image 1: UV Disinfection System Overview*
-
 ## Key Features 💡
 - **💯 99.99% Effective**: Achieves nearly total disinfection by utilizing **UV-C light** technology.
 - **🔒 Safety First**: Equipped with **IR sensors** that ensure the system only operates when there are no humans present, preventing exposure to harmful UV light.
@@ -19,9 +16,6 @@ Introducing **Safe Space: Advanced UV Disinfection System** – a cutting-edge s
 - **Arduino**: Controls the system’s operation, managing sensor inputs and lamp activation.
 - **Relay Module**: Controls the on/off switching of the UV lamp based on sensor data.
 - **Mobile App**: Provides real-time feedback, including the current disinfection status and elapsed time.
-
-![Technology Stack](images/technology_stack.jpg)  
-*Image 2: Technology Stack & Components Used*
 
 ## Components 🛠️
 - **UV-C Lamp** (for disinfection)
@@ -47,9 +41,6 @@ Introducing **Safe Space: Advanced UV Disinfection System** – a cutting-edge s
 4. The system automatically deactivates once the disinfection cycle is complete, ensuring no harm is done to individuals.
 5. **Mobile App** users are alerted when the disinfection process starts, progresses, and finishes.
 
-![Working Diagram](images/working_diagram.jpg)  
-*Image 3: How the UV Disinfection System Works*
-
 ## Future Enhancements 🌱
 - **💡 Smart Sensors**: Integration with smart sensors for more precise motion detection and room-specific customization.
 - **💻 Cloud Integration**: Storing system data on the cloud for tracking usage, performance, and maintenance scheduling.
@@ -58,9 +49,4 @@ Introducing **Safe Space: Advanced UV Disinfection System** – a cutting-edge s
 
 ## Conclusion 🌍
 **Safe Space: Advanced UV Disinfection System** is the future of hygiene and sanitation. With its chemical-free disinfection, **UV-C technology**, and **IR safety sensors**, it offers a **safe**, **eco-friendly**, and **automated** solution to keeping spaces sterile and healthy. Whether it's at home, in hospitals, or workplaces, this system provides peace of mind for everyone.
-
-![Final Product](images/final_product.jpg)  
-*Image 4: Final Working Prototype of UV Disinfection System*
-
-
 
