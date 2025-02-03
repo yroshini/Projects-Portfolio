@@ -42,7 +42,7 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 4. **Blynk Setup**: (Optional) Connect the system to the Blynk app for remote monitoring and real-time alerts.
 5. **Wearable Setup**: Attach the sensors to a wearable unit that can be worn comfortably by the patient.
 6. **Power the System**: Power the system with a suitable battery or power source, and start monitoring!
-7. 
+   
 ![Framework for observation](Images/framework-for-cancer-observation.png)  
 ### *Figure 3: Information flow framework for cancer observation system.*
 
@@ -64,6 +64,3 @@ The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** project leve
 
 ## Conclusion 🌍
 The **Enhanced Cancer Care: IoT Monitoring for Patient Well-being** system is designed to improve patient care and reduce the burden of frequent hospital visits. By using **IoT** technology, this system provides real-time monitoring of a cancer patient’s vital signs, helping healthcare providers intervene promptly if necessary. It’s a step towards **better patient well-being**, **more personalized care**, and **early detection** of health complications.
-
-
-
