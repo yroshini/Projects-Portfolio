@@ -31,5 +31,6 @@
 
 ## 📸 Screenshots
 
-![Simon Game](./screenshots/gameplay.png)
+![At the Start of Simon Game](./Screenshots/Start-Of-Game.png)
 *The colorful sequence gameplay.*
+![At the End of Simon Game](./Screenshots/End-Of-Game.png)
