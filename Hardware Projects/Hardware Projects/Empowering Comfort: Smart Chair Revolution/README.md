@@ -64,7 +64,5 @@
 ## Conclusion 🌍
 **Empowering Comfort: Smart Chair Revolution** is the future of ergonomic seating. Designed for **comfort**, **health**, and **well-being**, this chair adapts to your needs, providing a tailored seating experience. Whether you're working from home or just relaxing, the Smart Chair will ensure you're in the perfect position, with real-time health monitoring and comfort adjustments. Make sitting a pleasurable and healthy experience!
 
-![Final Product](images/final_product.jpg)  
-*Image 5: Final Working Prototype of Smart Chair*
 
 
