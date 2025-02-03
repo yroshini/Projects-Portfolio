@@ -3,8 +3,9 @@
 ## Description 🌟
 **Empowering Comfort** is a cutting-edge **Smart Chair** designed for **health and well-being**. With integrated **sensors**, **adjustable settings**, and **advanced comfort features**, this chair takes user comfort to the next level. It tracks posture, vital signs, and provides personalized comfort by adjusting settings such as height, lumbar support, and even providing massage functions. Perfect for **home offices**, **workspaces**, or **reclining areas**, the Smart Chair ensures you stay comfortable and healthy throughout the day.
 
-![Smart Chair Overview](Images/Complications.png)  
-*Image 1: Smart Chair Overview*
+<p align="center">
+  <img src="Images/Complications.png" alt="Smart Chair Overview"/>
+</p>
 
 ## Key Features 💡
 - **🧘‍♂️ Posture Monitoring**: Built-in sensors to monitor and track your posture, ensuring you maintain an ergonomic sitting position.
