@@ -17,25 +17,4 @@ Wanderlust is a web-based platform designed for managing travel destinations. Us
 - Rate Destinations: Users can rate each destination on a scale (e.g., 1-5 stars).
 - Travel History: Users can track their visited destinations and maintain a history.
 
-## Screenshots
 
-### Homepage
-![Homepage](./screenshots/homepage.png)
-![HomePage](./WanderlustTravelDestinationManager/WanderlustTravelDestinationManager/Screenshots/homepage.png)
-
-### Destination List
-![Destination List](./screenshots/destination-list.png)
-
-### Review Section
-![Review Section](./screenshots/review-section.png)
-
-### Modifying Section
-![Modifying Section](./screenshots/modifying-section.png)
-
-## Setup Instructions
-1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   npm install
-
-npm start
