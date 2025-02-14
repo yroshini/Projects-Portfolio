@@ -30,7 +30,7 @@
 ![Destination List](Screenshots/Destination-List.png)
 
 ### ✍️ Modifying Section
-![Modifying Section](screenshots/Modifying-Section.png)
+![Modifying Section](Screenshots/Modifying-Section.png)
 
 ### 💬 Review Section
 ![Review Section](Screenshots/Review-Section.png)
