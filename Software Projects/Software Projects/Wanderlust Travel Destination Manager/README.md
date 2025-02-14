@@ -1,50 +1,68 @@
-# 🌍 Wanderlust: Travel Destination Manager ✈️
+# 🌍 WanderLust - Travel Destination Manager ✈️
 
-**Wanderlust** is a powerful, web-based platform designed to help you manage and explore your travel destinations. With an intuitive interface, you can add, update, and delete destinations, as well as leave reviews, rate places, and track your travel history. Whether you're a travel enthusiast or just want to organize your trips, Wanderlust is the perfect tool for you.
+**WanderLust** is a web-based platform for discovering and managing travel destinations. Users can explore various listings, add new destinations, leave reviews, and interact with the platform in a seamless manner. Authentication ensures secure access to various functionalities.Whether you're a travel enthusiast or just want to organize your trips, Wanderlust is the perfect tool for you.
 
----
+## Features 🚀
 
-## 🚀 Technologies Used
+### General Users 🏕️ 
+- 🌟 **Sign Up & Log In**: Required to access full platform features.
+- 💬 **Leave & Delete Reviews**: Users can add reviews and delete their own reviews.
+- 📌 **Explore Listings**: Browse various travel destinations with filters and search functionality.
 
-- **Frontend**: React.js
+### Listing Owners ✏️
+- ➕ **Add New Listings**: Only logged-in users can add new listings.
+- 🔄 **Edit Listings**: Owners can modify their own listings.
+- ❌ **Delete Listings**: Only owners can delete their own listings.
+- 🗑 **Manage Reviews**: Owners can delete reviews under their respective listings.
+
+## 🛠 Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Styling**: Bootstrap
+- **Authentication**: Passport.js / JWT
 
----
+## 📸 Screenshots
 
-## ⚡ Features
+### 🏠 Homepage
+![Homepage](screenshots/Homepage.png)
 
-### 📍 Add New Destinations
-- Easily add new destinations with detailed information such as location, description, and more.
+### 📍 Destination List
+![Destination List](screenshots/Destination-List.png)
 
-### ✏️ Update Destinations
-- Modify and update your favorite destinations whenever you need to.
+### ✍️ Modifying Section
+![Modifying Section](screenshots/Modifying-Section.png)
 
-### 🗑️ Delete Destinations
-- Remove destinations from your list with just a click.
+### 💬 Review Section
+![Review Section](screenshots/Review-Section.png)
 
-### ⭐ Leave Reviews
-- Share your experiences by leaving reviews for destinations you've visited.
+### 🔐 Log In Page
+![Log In Page](screenshots/Log-In.png)
 
-### 🌟 Rate Destinations
-- Rate destinations on a scale from 1-5 stars to help others make better travel choices.
+##  Installation & Setup 🚀
 
-### 🛣️ Track Travel History
-- Keep a record of all the destinations you've visited with a simple and intuitive history tracker.
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/yourusername/WanderLust.git
+   cd WanderLust
+   ```
 
----
+2. **Install dependencies**
+   ```sh
+   npm install
+   ```
 
-## Screenshots
+3. **Set up environment variables** (`.env` file)
+   ```env
+   MONGO_URI=your_mongodb_uri
+   JWT_SECRET=your_secret_key
+   PORT=8080
+   ```
 
-### Homepage
-![Homepage](./Screenshots/Homepage.png)
+4. **Run the application**
+   ```sh
+   npm start
+   ```
 
-### Destination List
-![Destination List](./Screenshots/Destination-List.png)
+5. **Open the application**
+   - Visit `http://localhost:8080` in your browser.
 
-### Review Section
-![Review Section](./Screenshots/Review-Section.png)
-
-### Modifying Section
-![Modifying Section](./Screenshots/Modifying-Section.png)
