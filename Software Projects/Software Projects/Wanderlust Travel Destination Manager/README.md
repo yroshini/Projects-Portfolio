@@ -27,16 +27,16 @@
 ![Homepage](Screenshots/Homepage.png)
 
 ### 📍 Destination List
-![Destination List](screenshots/Destination-List.png)
+![Destination List](Screenshots/Destination-List.png)
 
 ### ✍️ Modifying Section
 ![Modifying Section](screenshots/Modifying-Section.png)
 
 ### 💬 Review Section
-![Review Section](screenshots/Review-Section.png)
+![Review Section](Screenshots/Review-Section.png)
 
 ### 🔐 Log In Page
-![Log In Page](screenshots/Log-In.png)
+![Log In Page](Screenshots/Log-in-page.png)
 
 ##  Installation & Setup 🚀
 
