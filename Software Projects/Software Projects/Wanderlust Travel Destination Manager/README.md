@@ -24,7 +24,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/Homepage.png)
+![Homepage](Screenshots/Homepage.png)
 
 ### 📍 Destination List
 ![Destination List](screenshots/Destination-List.png)
